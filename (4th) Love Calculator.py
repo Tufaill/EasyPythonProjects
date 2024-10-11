@@ -3,8 +3,8 @@
 
 #this calculator works in this way lol
 ''' it checks how many times the letter from the word "True love" appears in both
-#    names (like mine: Tufail Hussain).  it counts the occurrence of(true love) in first name(tufail)
-#    then it checks in second name(hussain) so in this case it appers 3 and 6 times so 36%'''
+    names (like mine: Tufail Hussain).  it counts the occurrence of(true love) in first name(tufail)
+    then it checks in second name(hussain) so in this case it appers 3 and 1 times so it becomes 31%'''
 
 def calculate_love_score(name1, name2):
     combined_names = name1 + name2
